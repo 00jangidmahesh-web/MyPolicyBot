@@ -1,0 +1,1 @@
+"""Retrieval pipeline: loading, chunking, embeddings, vectorstore, retriever, prompts, generation."""

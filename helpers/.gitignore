@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# API keys & secrets
+.env
+*.env
+
+# Vector store (ChromaDB) – bada folder, GitHub pe nahi dalna
+storage/
+chroma_db/
+*.db
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
